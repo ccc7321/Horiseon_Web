@@ -23,9 +23,11 @@ N/A
 
 Each section on the header is provided with a link which redirect the user to the content below, there is also a side bar which describe all the addtional benefit
 
-```md
+
 ![Screenshot of first page of website](assets/images/IMG_1.png)
-```
+
+
+
 ![Screenshot of first page of website](assets/images/IMG_2.png)
 
 
