@@ -31,6 +31,9 @@ Each section on the header is provided with a link which redirect the user to th
 ![Screenshot of first page of website](assets/images/IMG_2.png)
 
 
+Link to application: https://ccc7321.github.io/challenge_1/
+
+
 ## Credits
 
 Thanks Phil for to 1 - 1 tutoring and help on fixing the code.
