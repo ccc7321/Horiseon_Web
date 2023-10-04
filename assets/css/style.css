@@ -8,6 +8,8 @@ body {
     background-color: #d9dcd6;
 }
 
+/* Header styling */
+
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -121,6 +123,8 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
+
+/* Footer Styling */
 
 footer {
     padding: 30px;
